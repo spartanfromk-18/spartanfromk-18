@@ -2,7 +2,10 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6366F1&center=true&vCenter=true&width=650&lines=Hi+%F0%9F%90%BA%2C+I'm+Priyansh+Dhakrey;BCA+'28+%7C+AI-Accelerated+Developer;Oracle+Cloud+(OCI)+Certified;Building+Scalable+Web+Platforms" alt="Typing SVG" />
 </p>
-
+<!-- TOP HEADER ANIMATION BANNER -->
+<p align="center">
+  <img src="0e0efe68-8427-41ca-a7fb-ccf271abd54f_0online-video-cutter.com-ezgif.com-video-to-gif-converter.gif" alt="Priyansh Banner" width="100%" />
+</p>
  <!-- ACHIEVEMENT BADGES STRIP -->
 <p align="center">
   <img src="https://img.shields.io/badge/Oracle_OCI-AI_Foundations_Certified-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
