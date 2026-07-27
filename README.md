@@ -4,8 +4,9 @@
 </p>
 
 <!-- 3D TROPHY STATS -->
+ <!-- CUSTOM SVG HEADER BANNER -->
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=spartanfromk-18&theme=tokyonight&no-frame=true&column=4" alt="GitHub Trophies" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,100:a855f7&height=160&section=header&text=Priyansh%20Dhakrey&fontSize=38&fontColor=ffffff&animation=fadeIn&desc=Oracle%20Cloud%20Certified%20%7C%20BCA%20%2728%20%7C%20AI-Accelerated%20Developer&descSize=16&descAlign=62&descAlignY=62" alt="Header Banner" width="100%" />
 </p>
 <p align="center">
   <b>Computer Science Student (BCA)</b> • <b>Cloud & AI Certified (OCI)</b> • <b>Full-Stack Web Developer</b>
