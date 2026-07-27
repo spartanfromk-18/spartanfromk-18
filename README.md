@@ -7,9 +7,6 @@
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=spartanfromk-18&theme=tokyonight&no-frame=true&column=4" alt="GitHub Trophies" />
 </p>
- <p align="center">
-  <img src="https://raw.githubusercontent.com/spartanfromk-18/spartanfromk-18/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
-</p>
 <p align="center">
   <b>Computer Science Student (BCA)</b> • <b>Cloud & AI Certified (OCI)</b> • <b>Full-Stack Web Developer</b>
 </p>
@@ -84,7 +81,12 @@ I am a Computer Science undergraduate (BCA '28) based in India specializing in b
 
 ---
 
-### 📊 Real-Time GitHub Analytics
+ ### 📊 Real-Time GitHub Analytics
+
+<!-- SNAKE ANIMATION GOES HERE -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/spartanfromk-18/spartanfromk-18/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
+</p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=spartanfromk-18&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
@@ -93,10 +95,4 @@ I am a Computer Science undergraduate (BCA '28) based in India specializing in b
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=spartanfromk-18&theme=tokyonight&hide_border=true" width="97%" />
-</p>
-
----
-
-<p align="center">
-  <i>"Engineered with foundational core principles and AI-accelerated execution."</i>
 </p>
