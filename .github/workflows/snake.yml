@@ -19,14 +19,14 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
 
-      # 1. Generate 3D Contribution Skyline
+      # Generates high-contrast dark 3D city skylines
       - name: Generate 3D Contribution Graph
         uses: yoshi389111/github-profile-3d-contrib@0.7.1
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: spartanfromk-18
 
-      # 2. Generate Neon Cyberpunk Snake
+      # Generates Tokyo Night Cyberpunk Snake
       - name: Generate Tokyo Night Snake
         uses: Platane/snk/svg-only@v3
         with:
@@ -34,14 +34,12 @@ jobs:
           outputs: |
             dist/github-contribution-grid-snake-dark.svg?color_snake=%23A855F7&color_dots=%23161b22,%231f1f38,%233b3b7a,%236366f1,%23a855f7
 
-      # 3. Bundle both visuals into dist folder
-      - name: Copy 3D graphs to dist
+      - name: Bundle graph assets
         run: |
           mkdir -p dist
           cp -r profile-3d-contrib/* dist/
 
-      # 4. Deploy all assets to output branch
-      - name: Push assets to output branch
+      - name: Deploy to output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
