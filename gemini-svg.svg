@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 300" width="100%" height="100%">
+  <defs>
+    <filter id="glow" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="5" result="blur" />
+      <feComposite in="SourceGraphic" in2="blur" operator="over" />
+    </filter>
+  </defs>
+  <style>
+    .wood { fill: #2c1e16; stroke: #1a110c; stroke-width: 2; }
+    .wood-detail { fill: none; stroke: #1a110c; stroke-width: 1.5; stroke-dasharray: 5,2; }
+    
+    .flame-red { fill: #ff3d00; transform-origin: 150px 220px; animation: flicker 1.2s infinite alternate ease-in-out; filter: url(#glow); }
+    .flame-orange { fill: #ff9100; transform-origin: 150px 220px; animation: flicker 0.9s infinite alternate-reverse ease-in-out; }
+    .flame-yellow { fill: #ffea00; transform-origin: 150px 220px; animation: flicker 1.1s infinite alternate ease-in-out; }
+    
+    .spark { fill: #38BDF8; font-family: "Fira Code", monospace; font-weight: bold; font-size: 16px; opacity: 0; filter: url(#glow); }
+    
+    .s1 { animation: floatUp 2s infinite linear 0s; }
+    .s2 { animation: floatUp 2.5s infinite linear 0.7s; }
+    .s3 { animation: floatUp 1.8s infinite linear 1.4s; }
+    .s4 { animation: floatUp 2.2s infinite linear 2s; }
+
+    @keyframes flicker {
+      0% { transform: scale(1, 1) skewX(0deg); }
+      33% { transform: scale(1.02, 1.08) skewX(-2deg); }
+      66% { transform: scale(0.98, 0.92) skewX(2deg); }
+      100% { transform: scale(1.05, 1.05) skewX(-1deg); }
+    }
+
+    @keyframes floatUp {
+      0% { transform: translate(150px, 200px) scale(0.5); opacity: 0; }
+      20% { opacity: 1; }
+      100% { transform: translate(calc(150px + var(--x-offset)), 50px) scale(1.2) rotate(var(--rot)); opacity: 0; }
+    }
+  </style>
+
+  <!-- Animated Coder Sparks -->
+  <text style="--x-offset: -30px; --rot: -20deg;" class="spark s1">&lt;/&gt;</text>
+  <text style="--x-offset: 40px; --rot: 25deg;" class="spark s2">{ }</text>
+  <text style="--x-offset: -15px; --rot: 10deg;" class="spark s3">[]</text>
+  <text style="--x-offset: 25px; --rot: -15deg;" class="spark s4">;</text>
+
+  <!-- Logs Base -->
+  <g transform="translate(0, 10)">
+    <rect x="110" y="210" width="80" height="18" rx="4" class="wood" transform="rotate(15 150 220)" />
+    <path d="M115 215 L185 215" class="wood-detail" transform="rotate(15 150 220)" />
+    
+    <rect x="110" y="210" width="80" height="18" rx="4" class="wood" transform="rotate(-15 150 220)" />
+    <path d="M115 215 L185 215" class="wood-detail" transform="rotate(-15 150 220)" />
+  </g>
+
+  <!-- Fire Physics Layers -->
+  <path d="M150 90 Q190 180 185 220 A35 35 0 0 1 115 220 Q110 180 150 90 Z" class="flame-red" />
+  <path d="M150 120 Q175 185 170 220 A20 20 0 0 1 130 220 Q125 185 150 120 Z" class="flame-orange" />
+  <path d="M150 155 Q160 200 160 220 A10 10 0 0 1 140 220 Q140 200 150 155 Z" class="flame-yellow" />
+</svg>
