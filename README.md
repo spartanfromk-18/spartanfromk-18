@@ -89,10 +89,11 @@ I am a Computer Science undergraduate (BCA '28) based in India specializing in b
  ### 📊 3D Contribution Skyline & Neon Snake
 
 <!-- 3D ISOMETRIC SKYLINE GRAPH -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/spartanfromk-18/spartanfromk-18/output/profile-night-view.svg" alt="3D GitHub Contribution Graph" width="100%" />
-</p>
-
+ <!-- ENHANCED 3D ISOMETRIC SKYLINE SECTION -->
+<div align="center">
+  <br />
+  <img src="https://raw.githubusercontent.com/spartanfromk-18/spartanfromk-18/output/profile-night-view.svg" alt="Priyansh's 3D GitHub Contribution Skyline" width="100%" />
+</div>
 <!-- TOKYO NIGHT CYBERPUNK SNAKE -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/spartanfromk-18/spartanfromk-18/output/github-contribution-grid-snake-dark.svg" alt="Tokyo Night Snake Animation" width="100%" />
