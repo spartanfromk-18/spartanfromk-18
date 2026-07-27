@@ -20,6 +20,8 @@
   <b>Computer Science Student (BCA)</b> • <b>Cloud & AI Certified (OCI)</b> • <b>Full-Stack Web Developer</b>
 </p>
 **About Me**<img src="https://raw.githubusercontent.com/sanjay-kv/sanjay-kv/refs/heads/main/Assets/git-home.gif" min-width="300px" max-width="200px" width="250px" align="right"> 
+
+ 
 <!-- SOCIAL & CONTACT BADGES -->
 <p align="center">
   <a href="https://linkedin.com/in/priyanshdhakrey"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
@@ -88,7 +90,7 @@ I am a Computer Science undergraduate (BCA '28) based in India specializing in b
 * 📊 **Deloitte Australia:** Data Analytics Job Simulation (Forage)
 * 🏆 **HackerRank:** Certifications in Problem Solving, C#, and CSS
 
----
+ 
  ### 📊 3D Contribution Skyline & Neon Snake
 
 <!-- 3D ISOMETRIC SKYLINE GRAPH -->
