@@ -86,12 +86,19 @@ I am a Computer Science undergraduate (BCA '28) based in India specializing in b
 * 🏆 **HackerRank:** Certifications in Problem Solving, C#, and CSS
 
 ---
-### 📊 Real-Time GitHub Analytics
+ ### 📊 3D Contribution Skyline & Neon Snake
 
+<!-- 3D ISOMETRIC SKYLINE GRAPH -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/spartanfromk-18/spartanfromk-18/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
+  <img src="https://raw.githubusercontent.com/spartanfromk-18/spartanfromk-18/output/profile-night-view.svg" alt="3D GitHub Contribution Graph" width="100%" />
 </p>
 
+<!-- TOKYO NIGHT CYBERPUNK SNAKE -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/spartanfromk-18/spartanfromk-18/output/github-contribution-grid-snake-dark.svg" alt="Tokyo Night Snake Animation" width="100%" />
+</p>
+
+<!-- STATS CARDS -->
 <p align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=spartanfromk-18&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=spartanfromk-18&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
