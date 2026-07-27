@@ -3,8 +3,13 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6366F1&center=true&vCenter=true&width=650&lines=Hi+%F0%9F%90%BA%2C+I'm+Priyansh+Dhakrey;BCA+'28+%7C+AI-Accelerated+Developer;Oracle+Cloud+(OCI)+Certified;Building+Scalable+Web+Platforms" alt="Typing SVG" />
 </p>
 
-<!-- 3D TROPHY STATS -->
- <!-- CUSTOM SVG HEADER BANNER -->
+ <!-- ACHIEVEMENT BADGES STRIP -->
+<p align="center">
+  <img src="https://img.shields.io/badge/Oracle_OCI-AI_Foundations_Certified-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
+  <img src="https://img.shields.io/badge/Degree-BCA_2028-6366F1?style=for-the-badge&logo=education&logoColor=white" />
+  <img src="https://img.shields.io/badge/HackerRank-Problem_Solving_Certified-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" />
+  <img src="https://img.shields.io/badge/Forage-Software_Engineering_Simulations-00599C?style=for-the-badge&logo=codeforces&logoColor=white" />
+</p>
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,100:a855f7&height=160&section=header&text=Priyansh%20Dhakrey&fontSize=38&fontColor=ffffff&animation=fadeIn&desc=Oracle%20Cloud%20Certified%20%7C%20BCA%20%2728%20%7C%20AI-Accelerated%20Developer&descSize=16&descAlign=62&descAlignY=62" alt="Header Banner" width="100%" />
 </p>
