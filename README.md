@@ -104,6 +104,21 @@ I am a Computer Science undergraduate (BCA '28) based in India specializing in b
   <img src="https://raw.githubusercontent.com/spartanfromk-18/spartanfromk-18/output/github-contribution-grid-snake-dark.svg" alt="Tokyo Night Snake Animation" width="100%" />
 </p>
 
+<!-- ANIMATED CODER CAMPFIRE -->
+<p align="center">
+  <img src="gemini-svg.svg" alt="Animated Campfire" width="150" />
+</p>
+
+<!-- 🌌 CURRENTLY LEARNING SECTION -->
+<div align="center">
+  <br />
+  <code><b> ⚡ ACTIVELY MASTERING </b></code>
+  <br />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=2000&color=38BDF8&center=true&vCenter=true&width=800&height=50&lines=Google+Skills+Certifications;Striver+DSA+Series+|+Codeforces+|+CodeChef;Building+Hackathon+Projects+@+Hacker+House+Goa;Crazy+Curiosity+For+Learning+Everything+New" alt="Actively Learning" />
+  <br />
+</div>
+
+<!-- 📊 3D Contribution Skyline & Neon Snake -->
 <!-- STATS CARDS -->
 <p align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=spartanfromk-18&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
