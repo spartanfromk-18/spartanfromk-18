@@ -129,15 +129,12 @@ I am a Computer Science undergraduate (BCA '28) based in India specializing in b
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=spartanfromk-18&theme=tokyonight&hide_border=true" width="97%" />
 </p>
 
-<!-- 🕷️ SPIDER-VERSE DEVELOPER SECTION -->
 <div align="center">
   <br />
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=2000&color=EC4899&center=true&vCenter=true&width=800&height=50&lines=Swinging+Through+The+Spider-Verse+Of+Code;Web-Slinging+Developer+|+Spider-Man+Lover" alt="Spider-Verse Subtitle" />
   <br /><br />
-
-  <!-- Clickable GIF linked to the official soundtrack / video with audio -->
-  <a href="https://www.youtube.com/watch?v=g4HWhsxd1To" target="_blank">
-    <img src="" alt="Spider-Verse Animation" width="100%" style="border-radius: 12px;" />
+  <a href="https://www.youtube.com/watch?v=ApXoWvfEYVU&list=RDApXoWvfEYVU&start_radio=1" target="_blank">
+    <img src="spider-verse.gif" alt="Spider-Verse Animation" width="100%" style="border-radius: 12px;" />
   </a>
   <br />
   <sub style="color: #94A3B8;">🎬 <i>Click the animation above to launch the scene with the official soundtrack playing!</i></sub>
