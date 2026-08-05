@@ -130,17 +130,12 @@ I am a Computer Science undergraduate (BCA '28) based in India specializing in b
 </p>
 
 <div align="center">
-  <br />
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=2000&color=EC4899&center=true&vCenter=true&width=800&height=50&lines=Swinging+Through+The+Spider-Verse+Of+Code;Web-Slinging+Developer+|+Spider-Man+Lover" alt="Spider-Verse Subtitle" />
-  <br /><br />
-  <a href="https://www.youtube.com/watch?v=ApXoWvfEYVU&list=RDApXoWvfEYVU&start_radio=1" target="_blank">
-    <img src="spider-verse.gif" alt="Spider-Verse Animation" width="100%" style="border-radius: 12px;" />
-  </a>
-  <br />
-  <sub style="color: #94A3B8;">🎬 <i>Click the animation above to launch the scene with the official soundtrack playing!</i></sub>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=2000&color=EC4899&center=true&vCenter=true&width=800&height=50&lines=Swinging+Through+The+Spider-Verse+Of+Code;Web-Slinging+Developer+|+Spider-Man+Lover" alt="Spider-Verse Subtitle" />
+<br><br>
+<a href="https://www.youtube.com/watch?v=ApXoWvfEYVU&list=RDApXoWvfEYVU&start_radio=1" target="_blank">
+<img src="https://raw.githubusercontent.com/PriyanshDhakrey/PriyanshDhakrey/main/spider-verse.gif.gif" alt="Spider-Verse Animation" width="100%" style="border-radius: 12px;" />
+</a>
+<br>
+<sub style="color: #94A3B8;">🎬 <i>Click the animation above to launch the scene with the official soundtrack playing!</i></sub>
 </div>
-
-
-
-
-
+ 
