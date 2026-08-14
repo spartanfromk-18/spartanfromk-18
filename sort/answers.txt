@@ -1,0 +1,14 @@
+ sort1 uses: Bubble sort
+
+How do you know?:
+sort1 runs extremely fast on pre-sorted input files but takes a long time on reversed and random files. This behavior matches bubble sort, which has a best-case time complexity of O(n) on sorted data and a worst-case of O(n^2).
+
+sort2 uses: Merge sort
+
+How do you know?:
+sort2 is significantly faster than the other two programs on large random and reversed input files (e.g., 50,000 numbers). This consistent high performance across all input types matches merge sort's O(n log n) time complexity.
+
+sort3 uses: Selection sort
+
+How do you know?:
+sort3 takes approximately the same time to sort sorted, reversed, and random text files. Because selection sort always scans the entire unsorted portion regardless of initial order, its time complexity remains O(n^2) across all cases.
