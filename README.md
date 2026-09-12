@@ -1,14 +1,26 @@
-<h1 align="center"> 𝒫𝓇𝒾𝓎𝒶𝓃𝓈𝒽 𝒟𝒽𝒶𝓀𝓇ℯ𝓎 <img src="https://media.giphy.com/media/hvRJCLFzcasr14ia7z/giphy.gif" width="35"></h1>
+ <h1 align="center"> 𝒫𝓇𝒾𝓎𝒶𝓃𝓈𝒽 𝒟𝒽𝒶𝓀𝓇ℯ𝓎 <img src="https://media.giphy.com/media/hvRJCLFzcasr14ia7z/giphy.gif" width="35"></h1>
+
+
 
 <div align="center">
+
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Russo+One&weight=600&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Software+Engineer;Problem+Solver;Full-Stack+Developer;Tech+Enthusiast" alt="Typing SVG" />
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Russo+One&weight=600&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Software+Engineer;Problem+Solver;Full-Stack+Developer;Tech+Enthusiast" alt="Typing SVG" />
+
   </a>
+
 </div>
 
+
+
 <div align="center">
+
   <img src="https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/footer.svg" alt="Flowy Divider" width="100%" />
-</div>
+
+</div> 
+
+
 
 <br/>
 
@@ -80,6 +92,29 @@
 
  <div align="center">
   
+<br/>
+
+<h3 align="center"> 🚀 𝗖𝘂𝗿𝗿𝗲𝗻𝘁 𝗢𝗯𝘀𝗲𝘀𝘀𝗶𝗼𝗻𝘀 </h3>
+
+<!-- Looping Animated Text for Learning Goals -->
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=Dominating+Hackathons;Training+AI+%2F+ML+Models;Exploring+Cybersecurity;Debugging+Dev+Headaches..." alt="Learning Targets" />
+  </a>
+</div>
+
+<!-- Cool interactive/tech visual -->
+<div align="center">
+  <a href="https://github.com/spartanfromk-18">
+    <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="150" alt="Cyber Hacker" />
+  </a>
+</div>
+
+<br/>
+ 
+ 
+ 
+ 
  <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Daily Quote" />
 </div>
