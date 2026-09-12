@@ -1,19 +1,32 @@
 <h1 align="center"> 𝒫𝓇𝒾𝓎𝒶𝓃𝓈𝒽 𝒟𝒽𝒶𝓀𝓇ℯ𝓎 <img src="https://media.giphy.com/media/hvRJCLFzcasr14ia7z/giphy.gif" width="35"></h1>
-<!-- Looping Animated Text with Russo One Font -->
+
 <div align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Russo+One&weight=600&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Software+Engineer;Problem+Solver;Full-Stack+Developer;Tech+Enthusiast" alt="Typing SVG" />
   </a>
 </div>
 
-<br/>
-
-<!-- Animated Dancing/Coding Character -->
 <div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200" alt="Animated coding character">
+  <img src="https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/footer.svg" alt="Flowy Divider" width="100%" />
 </div>
 
 <br/>
+
+ <br/>
+
+<div align="center">
+  <img src="https://camo.githubusercontent.com/c4cfa42ffdc185e0351abefd5b7dc0a425c88d42ebcd05840a3174122c39fbe5/68747470733a2f2f632e74656e6f722e636f6d2f703749677753313756307341414141432f72746a2d7269636b2d616e642d6d6f7274792e676966" alt="Rick and Morty" width="400" />
+</div>
+
+<br/>
+
+<br/>
+<br/>
+
+ 
+
+<br/>
+
 
 ### 🛠️ 𝗧𝗲𝗰𝗵 𝗦𝘁𝗮𝗰𝗸
 <div align="center">
@@ -42,6 +55,20 @@
 
 <br/>
 
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/spartanfromk-18/spartanfromk-18/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/spartanfromk-18/spartanfromk-18/output/github-contribution-grid-snake.svg">
+    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/spartanfromk-18/spartanfromk-18/output/github-contribution-grid-snake-dark.svg" width="100%">
+  </picture>
+</div>
+
+<div align="center">
+  <!-- Replace the src link below with the actual URL of your uploaded GIF/image -->
+  <img src="https://example.com/path/to/your/pixel-city.gif" alt="Pixel Art Cityscape" width="100%" />
+</div>
+
+
 ### 📈 𝗟𝗶𝘃𝗲 𝗔𝗰𝘁𝗶𝘃𝗶𝘁𝘆 𝗚𝗿𝗮𝗽𝗵
 <div align="center">
   <picture>
@@ -50,3 +77,11 @@
     <img alt="Contribution Graph" src="https://raw.githubusercontent.com/spartanfromk-18/spartanfromk-18/output/profile-season-animate.svg" width="100%">
   </picture>
 </div>
+
+ <div align="center">
+  
+@@     |_| |_|   and failure leads to understanding    @@
+@@ _.-' _j L_ '-._                                     @@
+@@(___.'     '.___)                                    @@
++@ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @+`
+ 
