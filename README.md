@@ -96,3 +96,7 @@
  <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Daily Quote" />
 </div>
+
+<div align="center">
+  <img src="https://camo.githubusercontent.com/cbf13af5c5807bc610ca828f1d1c62f7e94b2f58c7ba389362796790c03eaf45/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d303a3243353336342c35303a3230334134332c3130303a304632303237266865696768743d3130302673656374696f6e3d666f6f746572" alt="Footer Wave" width="100%" />
+</div>
