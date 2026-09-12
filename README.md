@@ -1,7 +1,6 @@
-<div align="center">
-  <img src="https://raw.githubusercontent.com/spartanfromk-18/spartanfromk-18/main/gemini-svg%20(1).svg" alt="Priyansh Dhakrey Banner" width="100%" />
+ <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=Priyansh%20Dhakrey&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20AI%2FML%20%7C%20Cybersecurity&descAlignY=55&descSize=18" alt="Priyansh Dhakrey Header" width="100%" />
 </div>
-
  <br/>
 
 <div align="center">
