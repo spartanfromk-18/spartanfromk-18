@@ -1,28 +1,6 @@
- <h1 align="center"> 𝒫𝓇𝒾𝓎𝒶𝓃𝓈𝒽 𝒟𝒽𝒶𝓀𝓇ℯ𝓎 <img src="https://media.giphy.com/media/hvRJCLFzcasr14ia7z/giphy.gif" width="35"></h1>
-
-
-
 <div align="center">
-
-  <a href="https://git.io/typing-svg">
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Russo+One&weight=600&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Software+Engineer;Problem+Solver;Full-Stack+Developer;Tech+Enthusiast" alt="Typing SVG" />
-
-  </a>
-
+  <img src="https://raw.githubusercontent.com/spartanfromk-18/spartanfromk-18/main/gemini-svg%20(1).svg" alt="Priyansh Dhakrey Banner" width="100%" />
 </div>
-
-
-
-<div align="center">
-
-  <img src="https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/footer.svg" alt="Flowy Divider" width="100%" />
-
-</div> 
-
-
-
-<br/>
 
  <br/>
 
